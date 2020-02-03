@@ -1,5 +1,8 @@
 # BookFlix
 > 100DaysOfCode: Day 1
+
+> View blog post on [Medium](https://medium.com/@victoria2666/100-days-of-code-day-1-of-100-f31ba371a7b9)
+
 > View project on [victoria-lo.github.io/BookFlix/](https://victoria-lo.github.io/BookFlix/)
 
 ## Library Circulation System
@@ -18,4 +21,3 @@
 - Tracks which books are borrowed and which patrons are borrowing them
 - Tracks when the books are returned
 - Use book's unique ID to lookup and display book information when requested
-
