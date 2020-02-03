@@ -1,4 +1,4 @@
-# BookFlix
+# BookFlix :books:
 > 100DaysOfCode: Day 1
 
 > View blog post on [Medium](https://medium.com/@victoria2666/100-days-of-code-day-1-of-100-f31ba371a7b9)
