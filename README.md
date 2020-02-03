@@ -1,10 +1,15 @@
 # BookFlix
 ## Library Circulation System
-- 100DaysOfCode Day 1
-- Using vanilla JavaScript to create a simple library circulation system.
+> 100DaysOfCode: Day 1
+- Used vanilla JavaScript, HTML and CSS to create a simple library circulation system.
 
-## What I Learn:
-- Build and edit DOM Elements, which using built-in JS data structures (i.e. objects and arrays) to store data that these DOM display.
+## What I Learn
+- Build and edit DOM Elements
+- Using built-in JS data structures (i.e. objects and arrays) to store data for DOM elements to display
+- Add listeners and click events in JavaScript
+- Navigating HTML elements via JavaScript
+- Using querySelector to find HTML elements
+- Build simple tables using HTML
 
 ## The Project
 - Stores a collection of books and patrons
