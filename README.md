@@ -1,5 +1,6 @@
 # BookFlix
 > 100DaysOfCode: Day 1
+> View project on [victoria-lo.github.io/BookFlix/](https://victoria-lo.github.io/BookFlix/)
 
 ## Library Circulation System
 - Used vanilla JavaScript, HTML and CSS to create a simple library circulation system.
