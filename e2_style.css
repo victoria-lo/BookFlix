@@ -1,0 +1,68 @@
+body {
+	padding-top: 105px; 
+	background-color: #504e4e;
+	margin-left: 20px;
+	font-family: monospace;
+	color: white;
+}
+
+#header{
+	font-family: "Bebas Neue", Helvetica, sans-serif;
+	letter-spacing: 4px;
+	line-height: 7px;
+	background-color: rgb(212, 41, 41);
+	top: 0;
+	left: 0;
+	padding: 10px 0px 20px 20px;
+	display: block;
+	width: 100%;
+	position: fixed;
+}
+table, td, th {
+	border-collapse: collapse;
+	border: 1px solid grey;
+}
+
+td, th {
+	font-size: 14px;
+	min-width: 240px;
+}
+
+h4 {
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+.patron {
+	border: 1px solid grey;
+	padding: 10px;
+	max-width: 1000px;
+	margin-top: 10px;
+}
+
+.patron p {
+	font-size: 14px;
+	margin: 2px;
+}
+
+
+.patron span {
+	font-size: 14px;
+}
+
+#bookInfo p {
+	font-family: monospace;
+	font-size: 14px;
+}
+
+#bookInfo span {
+	font-size: 14px;
+}
+
+.green {
+	color: rgb(108, 206, 108);
+}
+
+.red {
+	color: red;
+}
