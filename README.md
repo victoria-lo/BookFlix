@@ -1,6 +1,7 @@
 # BookFlix
-## Library Circulation System
 > 100DaysOfCode: Day 1
+
+## Library Circulation System
 - Used vanilla JavaScript, HTML and CSS to create a simple library circulation system.
 
 ## What I Learn
