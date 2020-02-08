@@ -2,9 +2,9 @@
 **Library Circulation System**
 > 100DaysOfCode: Day 1
 
-View blog post on [Medium](https://medium.com/@victoria2666/100-days-of-code-day-1-of-100-f31ba371a7b9)
+📝 [DEVLOG](https://medium.com/@victoria2666/100-days-of-code-day-1-of-100-f31ba371a7b9)
 
-View project on [victoria-lo.github.io/BookFlix/](https://victoria-lo.github.io/BookFlix/)
+View project [HERE](https://victoria-lo.github.io/BookFlix/)
 
 ## The Project
 - Used vanilla JavaScript, HTML and CSS to create a simple library circulation system.
