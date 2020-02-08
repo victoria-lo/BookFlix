@@ -4,7 +4,7 @@
 
 📝 [DEVLOG](https://medium.com/@victoria2666/100-days-of-code-day-1-of-100-f31ba371a7b9)
 
-View project [HERE](https://victoria-lo.github.io/BookFlix/)
+👀 [VIEW PROJECT](https://victoria-lo.github.io/BookFlix/)
 
 ## The Project
 - Used vanilla JavaScript, HTML and CSS to create a simple library circulation system.
